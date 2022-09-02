@@ -69,6 +69,7 @@ if(isset($_SESSION['IS_LOGIN'])){
                                         </div>
                                         <input  type= "submit" name="login" class="btn btn-primary btn-user btn-block" value="Login">
                                         <hr>
+                                    </form>
                                       
                                 </div>
                             </div>
